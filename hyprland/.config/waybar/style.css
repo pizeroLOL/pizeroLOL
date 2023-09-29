@@ -1,0 +1,41 @@
+* {
+    border: none;
+    font-size: 14px;
+    margin: 0 2px;
+}
+
+window#waybar {
+    padding: 4px;
+    border-radius: 0 0 12px 12px;
+    background-color: #3b4252;
+}
+
+#tray,
+#pulseaudio,
+#network,
+#memory,
+#cpu,
+#clock {
+    margin: 4px;
+    padding: 0 4px;
+    border-radius: 8px;
+}
+
+#cpu:hover {
+    background-color: #5e81ac;
+}
+
+#memory:hover {
+    background-color: #81a1c1;
+}
+
+#workspaces button {
+    margin: 4px 2px;
+    border-radius: 8px;
+    background-color: #434c5e;
+}
+
+#workspaces button.active {
+    background-color: #d8dee9;
+    color: #2e3440;
+}
