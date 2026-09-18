@@ -9,6 +9,8 @@ repo 十有八九都是 fork 的，看我的 repo 的实现不如直接去看上
 - 工作日 20:00 - 23:00 在线，周末 14:00 - 00:00 在线
 - 约 0 代码产出
 
+RIP @baiyao105
+
 ## 配置文件
 
 - [archlinux](./archlinux/Readme.md)
